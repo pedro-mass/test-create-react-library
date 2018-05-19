@@ -1,5 +1,5 @@
 {
-  "name": "test-create-react-library",
+  "name": "@pedro-mass/test-create-react-library",
   "version": "1.0.0",
   "description": "Testing create-react-library for package development",
   "author": "pedro-mass",
@@ -51,7 +51,5 @@
     "rollup-plugin-postcss": "^1.1.0",
     "rollup-plugin-url": "^1.3.0"
   },
-  "files": [
-    "dist"
-  ]
+  "files": ["dist"]
 }
