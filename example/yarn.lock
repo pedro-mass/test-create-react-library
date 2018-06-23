@@ -2,6 +2,10 @@
 # yarn lockfile v1
 
 
+"@pedro-mass/test-create-react-library@link:..":
+  version "0.0.0"
+  uid ""
+
 abab@^1.0.3:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/abab/-/abab-1.0.4.tgz#5faad9c2c07f60dd76770f71cf025b62a63cfd4e"
@@ -6507,10 +6511,6 @@ term-size@^1.2.0:
   resolved "https://registry.yarnpkg.com/term-size/-/term-size-1.2.0.tgz#458b83887f288fc56d6fffbfad262e26638efa69"
   dependencies:
     execa "^0.7.0"
-
-"test-create-react-library@link:..":
-  version "0.0.0"
-  uid ""
 
 test-exclude@^4.2.1:
   version "4.2.1"

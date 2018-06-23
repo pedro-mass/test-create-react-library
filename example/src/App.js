@@ -1,13 +1,14 @@
-import React, { Component } from 'react'
+import React, { Component } from "react";
 
-import ExampleComponent from 'test-create-react-library'
+import ExampleComponent from "@pedro-mass/test-create-react-library";
 
 export default class App extends Component {
-  render () {
+  render() {
     return (
       <div>
-        <ExampleComponent text='Modern React component module' />
+        <p>Update 2:</p>
+        <ExampleComponent text="Modern React component module" />
       </div>
-    )
+    );
   }
 }
